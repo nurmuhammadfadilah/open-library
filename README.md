@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi
 
-Open Library Book Finder adalah aplikasi web berbasis **Next.js** yang memungkinkan pengguna mencari buku berdasarkan judul melalui **Open Library API**. Aplikasi ini juga menampilkan rekomendasi buku teknologi saat pertama kali dibuka. [Open Library](https://open-library.vercel.app/)
+Open Library Book Finder adalah aplikasi web berbasis **Next.js** yang memungkinkan pengguna mencari buku berdasarkan judul melalui **Open Library API**. Aplikasi ini juga menampilkan rekomendasi buku teknologi saat pertama kali dibuka. [Open Library](https://open-library-pi.vercel.app/)
 
 ## 🚀 Fitur
 
